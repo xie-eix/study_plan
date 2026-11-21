@@ -1,0 +1,15 @@
+# build output
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+build/
+
+# editor
+.vscode/
+.idea/
+
+# temp
+*.tmp
+*.log
